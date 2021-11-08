@@ -44,7 +44,7 @@ In the event of my death, I wish for my remaining assets (after covering debts &
  - Family: any real estate, as well as up to 10M SEK [1]
  - Friends: up to 10M SEK [1]
    - If a list has not been provided by the time of my death, it is to be decided by my family.
- - A foundation in my name to support the following causes, in equal parts, using any remaining funds:
+ - A foundation in my name that invests in the market and uses the excess to support the following causes, in equal parts, using any remaining funds:
    - Scientific advancement within medicine and emerging technologies
    - Reduction of existential risk [2]
    - Global health, poverty alleviation, and social causes [2]
